@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: black;
+  }
+  #para1{
+    color: red;
+    font-size: 100px;
+  }
+  #para2{
+    color: blue;
+    font-size: 75px;
+  }
+
+  #person1 {
+    color: cornsilk;
+  }
